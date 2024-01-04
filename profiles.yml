@@ -1,0 +1,13 @@
+stack1:
+  outputs:
+    dev:
+      account: uh47461.ap-southeast-1
+      database: DEMO_DBT1
+      password: Karan@sf2024
+      role: dbt_DEV_ROLE2
+      schema: public
+      threads: 2
+      type: snowflake
+      user: Karansf
+      warehouse: dbt_DEV_WH
+  target: dev
